@@ -22,8 +22,8 @@ namespace StudentCourse
 
         public Course(string name, string id)
         {
-            Name = name;
-            Id = id;
+            this.Name = name;
+            this.Id = id;
             this.students = new Student[Course.StudentLimit];
         }
 
@@ -84,8 +84,8 @@ namespace StudentCourse
 
         public void ShowCourseInfo()
         {
-            Console.WriteLine("Course Name: {0}", Name);
-            Console.WriteLine("Course ID: {0}", Id);
+            Console.WriteLine("Course Name: " +Name);
+            Console.WriteLine("Course ID: " +Id);
         }
     }
 }

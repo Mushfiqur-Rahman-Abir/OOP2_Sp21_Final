@@ -24,9 +24,9 @@ namespace StudentCourse
 
         public Student(string name, string id, float cgpa)
         {
-            Name = name;
-            Id = id;
-            Cgpa = cgpa;
+            this.Name = name;
+            this.Id = id;
+            this.Cgpa = cgpa;
             this.courses = new Course[Student.CourseLimit];
         }
 
@@ -86,9 +86,9 @@ namespace StudentCourse
 
         public void ShowInfo()
         {
-            Console.WriteLine("Name: {0}", Name);
-            Console.WriteLine("ID: {0}", Id);
-            Console.WriteLine("CGPA: {0}", Cgpa);
+            Console.WriteLine("Student Name: " +Name);
+            Console.WriteLine("Student ID: " +Id);
+            Console.WriteLine("CGPA: " +Cgpa);
         }
     }
 }
