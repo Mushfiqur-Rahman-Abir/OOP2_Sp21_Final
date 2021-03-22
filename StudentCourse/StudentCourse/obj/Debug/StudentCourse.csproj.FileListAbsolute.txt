@@ -1,0 +1,6 @@
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\StudentCourse\StudentCourse\bin\Debug\StudentCourse.exe.config
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\StudentCourse\StudentCourse\bin\Debug\StudentCourse.exe
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\StudentCourse\StudentCourse\bin\Debug\StudentCourse.pdb
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\StudentCourse\StudentCourse\obj\Debug\StudentCourse.csprojResolveAssemblyReference.cache
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\StudentCourse\StudentCourse\obj\Debug\StudentCourse.exe
+D:\7th semester(2020-21,spring)\OOP2(C Sharp)\FINAL\PROJECT_FINAL\StudentCourse\StudentCourse\obj\Debug\StudentCourse.pdb
