@@ -9,7 +9,7 @@ namespace BankAccount
     class Account
     {
         public string AccName { get; set; }
-        public string AccNo { get; set; }
+        public string AccNo { get; }
         public double Balance { get; set; }
 
         public Account()

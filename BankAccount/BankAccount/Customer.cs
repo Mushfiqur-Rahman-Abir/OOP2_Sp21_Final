@@ -35,7 +35,7 @@ namespace BankAccount
             }
         }
 
-        public void GetAccount(string accNo)
+        public Account GetAccount(string accNo)
         {
             Account acc = null;
             for(int i = 0; i < AccCount; i++)

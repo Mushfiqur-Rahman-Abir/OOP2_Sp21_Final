@@ -36,11 +36,11 @@ namespace Misc
 
             vote = age >= 18 ? "Can cast vote." : "Cannot cast vote.";
 
-            var j = "10.0";
+            /*var j = "10.0";
             dynamic k = 10;
             k.dnwkdawndkjawd();
             k.fsdffesdsdee();
-            Console.WriteLine(k.print() + k.staticV);
+            Console.WriteLine(k.print() + k.staticV);*/
         }
     }
 }
